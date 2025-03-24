@@ -1,0 +1,11 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+@uniswap/v3-periphery/=lib/v3-periphery/
+@uniswap/v3-core/=lib/v3-core/
+@openzeppelin/foundry-upgrades/=lib/openzeppelin-foundry-upgrades/src/
+@chainlink/contracts/=lib/chainlink/contracts/
+@create3/contracts/=lib/create3/contracts/
+@balancer/contracts/=lib/balancer-v2-monorepo/pkg/
+@balancer-labs/v2-interfaces/=lib/balancer-v2-monorepo/pkg/interfaces/
+@balancer-labs/v2-pool-utils/=lib/balancer-v2-monorepo/pkg/pool-utils/
+@balancer-labs/v2-solidity-utils/=lib/balancer-v2-monorepo/pkg/solidity-utils/
